@@ -87,12 +87,12 @@ Choose a File.
 3. INTEREST IN EDI: Why do you want to be part of our programme?  Describe the reasons that make you apply to EDI. [2000]
 
 ## SECTION 3: TECHNICAL APPROACH
-- Describe how you plan to address the challenge from a technical perspective (including tools you will use). [2000]
-- Attach the technical design/architecture for your solution. (Max file size 30MB.) PDF or PNG. file
-- Are you using additional datasets (than the ones provided by the data providers) to sort out the challenge?
+1. Describe how you plan to address the challenge from a technical perspective (including tools you will use). [2000]
+2. Attach the technical design/architecture for your solution. (Max file size 30MB.) PDF or PNG. file
+3. Are you using additional datasets (than the ones provided by the data providers) to sort out the challenge?
   - [ ] Yes
   - [ ] No
-- Technical risks assesment (i.e. missing data, algorithm adaptation, alternatives, etc) [1000]
+4. Technical risks assesment (i.e. missing data, algorithm adaptation, alternatives, etc) [1000]
 
 
 ## SECTION 4: BUSINESS

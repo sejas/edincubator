@@ -66,6 +66,7 @@ This section is for SMEs only, according to the SME definition by the EC. You mu
 > Please fill in and upload the Company Figures in the following excel file: bit.ly/EDI_Call1_CompanyFigures (Max file size 30MB.) Please download the file, fill it in and upload it again.
 Choose a File
 
+
 ## SECTION 2: EDI CHALLENGE
 1. CHALLENGE SELECTION: Select the challenge you are interested in.  If you would like to recap, you can find the challenges' description here: edincubator.eu/challenges/
   - [ ] EDI-2018-1-ALL. Discovery of cross-sector related data

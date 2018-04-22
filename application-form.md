@@ -64,10 +64,9 @@ This section is for SMEs only, according to the SME definition by the EC. You mu
 - Company figures (actual till 2017; estimations from 2018)
 - If you are an SME, please provide the following figures.
 > Please fill in and upload the Company Figures in the following excel file: bit.ly/EDI_Call1_CompanyFigures (Max file size 30MB.) Please download the file, fill it in and upload it again.
-Choose a File
+Choose a File.
 
-
-## SECTION 2: EDI CHALLENGE
+## SECTION 2: EDI CHALLENGE
 1. CHALLENGE SELECTION: Select the challenge you are interested in.  If you would like to recap, you can find the challenges' description here: edincubator.eu/challenges/
   - [ ] EDI-2018-1-ALL. Discovery of cross-sector related data
   - [ ] EDI-2018-2-UBIMET. Quality control of weather observation data
@@ -88,12 +87,12 @@ Choose a File
 3. INTEREST IN EDI: Why do you want to be part of our programme?  Describe the reasons that make you apply to EDI. [2000]
 
 ## SECTION 3: TECHNICAL APPROACH
-- Describe how you plan to address the challenge from a technical perspective (including tools you will use). [2000]
-- Attach the technical design/architecture for your solution. (Max file size 30MB.) PDF or PNG. file
-- Are you using additional datasets (than the ones provided by the data providers) to sort out the challenge?
+1. Describe how you plan to address the challenge from a technical perspective (including tools you will use). [2000]
+2. Attach the technical design/architecture for your solution. (Max file size 30MB.) PDF or PNG. file
+3. Are you using additional datasets (than the ones provided by the data providers) to sort out the challenge?
   - [ ] Yes
   - [ ] No
-- Technical risks assesment (i.e. missing data, algorithm adaptation, alternatives, etc) [1000]
+4. Technical risks assesment (i.e. missing data, algorithm adaptation, alternatives, etc) [1000]
 
 
 ## SECTION 4: BUSINESS
